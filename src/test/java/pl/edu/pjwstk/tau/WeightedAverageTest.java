@@ -73,18 +73,6 @@ public class WeightedAverageTest {
     }
 
     @Test
-    public void should_calculate_average_of_large_file() {
-        // assume ??
-        var average = new WeightedAverage("average\\test_avg_large_file.txt");
-
-        // act
-        double avg = average.calculate();
-
-        // assert
-        assertThat(avg).isEqualTo(4.42);
-    }
-
-    @Test
     public void should_calculate_average_example_1() {
         var average = new WeightedAverage("average\\test_ex_1.txt");
 
