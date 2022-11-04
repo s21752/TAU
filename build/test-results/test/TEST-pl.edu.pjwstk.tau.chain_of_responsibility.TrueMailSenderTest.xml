@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-11-04T21:56:15" hostname="CEZARY" time="0.194">
+  <properties/>
+  <testcase name="can_not_send_mail_with_wrong_receiver_address_case_1" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.143"/>
+  <testcase name="can_not_send_mail_with_wrong_receiver_address_case_2" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_wrong_receiver_address_case_3" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_wrong_receiver_address_case_4" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.003"/>
+  <testcase name="can_create_mail_sender" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.001"/>
+  <testcase name="can_not_send_mail_with_no_title_case_1" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_no_title_case_2" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.003"/>
+  <testcase name="can_not_send_mail_with_no_title_case_3" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_too_long_title" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_send_correctly_filled_mail" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.015"/>
+  <testcase name="can_not_send_mail_with_no_receiver_address_case_1" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_no_receiver_address_case_2" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.001"/>
+  <testcase name="can_not_send_mail_with_no_receiver_address_case_3" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.001"/>
+  <testcase name="can_not_send_mail_with_no_message_text_case_1" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.003"/>
+  <testcase name="can_not_send_mail_with_no_message_text_case_2" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.002"/>
+  <testcase name="can_not_send_mail_with_no_message_text_case_3" classname="pl.edu.pjwstk.tau.chain_of_responsibility.TrueMailSenderTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

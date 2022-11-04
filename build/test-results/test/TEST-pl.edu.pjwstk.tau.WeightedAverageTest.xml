@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pl.edu.pjwstk.tau.WeightedAverageTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2022-11-04T21:56:15" hostname="CEZARY" time="0.034">
+  <properties/>
+  <testcase name="should_remove_trailing_zeroes_1" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.015"/>
+  <testcase name="should_remove_trailing_zeroes_2" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.001"/>
+  <testcase name="should_remove_trailing_zeroes_3" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.001"/>
+  <testcase name="should_throw_when_file_does_not_exists" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.002"/>
+  <testcase name="should_calculate_average_example_1" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.006"/>
+  <testcase name="should_calculate_average_example_2" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.0"/>
+  <testcase name="should_calculate_average_example_3" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.0"/>
+  <testcase name="should_throw_when_file_not_specified" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.001"/>
+  <testcase name="should_throw_when_wrong_file_content_format" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.003"/>
+  <testcase name="should_create_class" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.0"/>
+  <testcase name="should_calculate_simple_average" classname="pl.edu.pjwstk.tau.WeightedAverageTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
