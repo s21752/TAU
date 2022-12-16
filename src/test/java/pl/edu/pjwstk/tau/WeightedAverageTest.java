@@ -24,7 +24,7 @@ public class WeightedAverageTest {
             double avg = average.calculate();
 
             // assert
-            assertThat(avg).isEqualTo(4.42);
+            assertThat(avg).isEqualTo(4.52);
         } catch (Exception e) {
             // not checking throwing exceptions here so we can catch it, just to test one thing
         }
